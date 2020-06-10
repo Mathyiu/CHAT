@@ -1,13 +1,13 @@
 {
   "name": "CHAT",
   "version": "1.0.0",
-  "description": "",
+  "description": "Real time chat, now you can talk with your friends",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mathyiu",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.2",
